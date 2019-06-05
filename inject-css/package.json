@@ -3,7 +3,7 @@
   "version": "1.1.1",
   "description": "Example Extension: Inject custom CSS",
   "author": "N U R O ™ <me@nuro.sh>",
-  "homepage": "https://github.com/tdemapp/extensions/tree/master/examples/inject-css/",
+  "homepage": "https://github.com/tdemapp/examples/tree/master/examples/inject-css/",
   "main": "index.js",
   "scripts": {
     "export": "node build.js"
